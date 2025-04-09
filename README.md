@@ -13,6 +13,7 @@ Whether you're into fitness, virtual exploration, or just vibing with futuristic
 <img src="https://github.com/user-attachments/assets/d8b5ed36-a543-4895-bc39-69da8c3e5d52" width="300" alt="Khayal Station Demo" />
 
 <img src="https://github.com/user-attachments/assets/9d4c092c-92a9-4c56-b56a-247bf9d528e0" width="300" alt="Khayal Station Demo" />
+
 ---
 
 ## ✨ Features
