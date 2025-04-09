@@ -14,11 +14,11 @@ Feel like you’re right there in the middle of the action, experiencing live ev
 
 ---
 ## What We Offer
-🎥 360° Live Streaming – Watch live events from every angle in stunning 360° VR.
-🕶 VR Glasses Integration – Get the full immersive experience with VR glasses and feel like you’re truly there.
-🎮 Interactive Experience – Engage with the event and interact with the environment in real-time.
-📅 Event Calendar – Stay updated and plan your participation in live events.
-💡 Smooth & Interactive UI – Enjoy a flawless experience across platforms with Flutter’s seamless interface
+🎥**360° Live Streaming**  – Watch live events from every angle in stunning 360° VR.
+🕶**VR Glasses Integration** – Get the full immersive experience with VR glasses and feel like you’re truly there.
+🎮 **Interactive Experience** – Engage with the event and interact with the environment in real-time.
+📅 **Event Calendar** – Stay updated and plan your participation in live events.
+💡 **Smooth & Interactive UI** – Enjoy a flawless experience across platforms with Flutter’s seamless interface
 
 ----
 ## ✨ Features
